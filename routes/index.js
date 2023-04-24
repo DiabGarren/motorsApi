@@ -1,6 +1,5 @@
 const router = require('express').Router();
-const controller = require('../controllers');
 
-router.get('/', controller.getData);
+router.get('/', require('./cars'));
 
 module.exports = router;

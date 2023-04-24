@@ -1,6 +1,6 @@
 const mongodb = require('../db');
 
-const getData = async (req, res, next) => {
+const getCars = async (req, res, next) => {
   const result = await mongodb.getDb().db().collection('motors').find();
   result.toArray().then((lists) => {
     res.setHeader('Content-Type', 'application/json');
@@ -8,4 +8,4 @@ const getData = async (req, res, next) => {
   });
 };
 
-module.exports = { getData };
+module.exports = { getCars };

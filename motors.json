@@ -1,7 +1,4 @@
 [{
-  "_id": {
-    "$oid": "64467ec5cb73466478adc2ee"
-  },
   "Make": "Jeep ",
   "Model": "Wrangler",
   "Description": "The Jeep Wrangler is small and compact with enough power to get you where you want to go. It is great for everyday driving as well as off-roading whether that be on the rocks or in the mud!",
@@ -10,9 +7,6 @@
   "Color": "Orange",
   "Classification": "SUV"
 },{
-  "_id": {
-    "$oid": "64467ec5cb73466478adc2ef"
-  },
   "Make": "Mystery",
   "Model": "Machine",
   "Description": "Scooby and the gang always found luck in solving their mysteries because of their 4 wheel drive Mystery Machine. This Van will help you do whatever job you are required to with a success rate of 100%.",
@@ -21,9 +15,6 @@
   "Color": "Green",
   "Classification": "SUV"
 },{
-  "_id": {
-    "$oid": "64467ec5cb73466478adc2f0"
-  },
   "Make": "Cadillac",
   "Model": "Escalade",
   "Description": "This styling car is great for any occasion from going to the beach to meeting the president. The luxurious inside makes this car a home away from home.",
@@ -32,9 +23,6 @@
   "Color": "Black",
   "Classification": "SUV"
 },{
-  "_id": {
-    "$oid": "64467ec5cb73466478adc2f1"
-  },
   "Make": "FBI",
   "Model": "Surveillance Van",
   "Description": "Do you like police shows? You will feel right at home driving this van. Comes complete with surveillance equipment for an extra fee of $2,000 a month. ",
@@ -43,9 +31,6 @@
   "Color": "Green",
   "Classification": "SUV"
 },{
-  "_id": {
-    "$oid": "64467ec5cb73466478adc2f2"
-  },
   "Make": "Ford",
   "Model": "Model T",
   "Description": "The Ford Model T can be a bit tricky to drive. It was the first car to be put into production. You can get it in any color you want if it is black.",
@@ -54,9 +39,6 @@
   "Color": "Black",
   "Classification": "Classic"
 },{
-  "_id": {
-    "$oid": "64467ec5cb73466478adc2f3"
-  },
   "Make": "Aerocar International",
   "Model": "Aerocar",
   "Description": "Are you sick of rush hour traffic? This car converts into an airplane to get you where you are going fast. Only 6 of these were made, get this one while it lasts!",
@@ -65,9 +47,6 @@
   "Color": "Red",
   "Classification": "Classic"
 },{
-  "_id": {
-    "$oid": "64467ec5cb73466478adc2f4"
-  },
   "Make": "Dog ",
   "Model": "Car",
   "Description": "Do you like dogs? Well, this car is for you straight from the 90s from Aspen, Colorado we have the original Dog Car complete with fluffy ears.",
@@ -76,9 +55,6 @@
   "Color": "Brown",
   "Classification": "Classic"
 },{
-  "_id": {
-    "$oid": "64467ec5cb73466478adc2f5"
-  },
   "Make": "DMC",
   "Model": "DeLorean",
   "Description": "Its like driving a car from the future.",
@@ -87,9 +63,6 @@
   "Color": "Silver",
   "Classification": "Classic"
 },{
-  "_id": {
-    "$oid": "64467ec5cb73466478adc2f6"
-  },
   "Make": "Lamborghini",
   "Model": "Adventador",
   "Description": "This V-12 engine packs a punch in this sporty car. Make sure you wear your seatbelt and obey all traffic laws.",
@@ -98,9 +71,6 @@
   "Color": "Blue",
   "Classification": "Sports"
 },{
-  "_id": {
-    "$oid": "64467ec5cb73466478adc2f7"
-  },
   "Make": "Batmobile",
   "Model": "Custom",
   "Description": "Ever want to be a superhero? Now you can with the bat mobile. This car allows you to switch to bike mode allowing for easy maneuvering through traffic during rush hour.",
@@ -109,9 +79,6 @@
   "Color": "Black",
   "Classification": "Sports"
 },{
-  "_id": {
-    "$oid": "64467ec5cb73466478adc2f8"
-  },
   "Make": "Chevy",
   "Model": "Camaro",
   "Description": "If you want to look cool this is the car you need! This car has great performance at an affordable price. Own it today!",
@@ -120,9 +87,6 @@
   "Color": "Silver",
   "Classification": "Sports"
 },{
-  "_id": {
-    "$oid": "64467ec5cb73466478adc2f9"
-  },
   "Make": "Monster",
   "Model": "Truck",
   "Description": "Most trucks are for working, this one is for fun. This beast comes with 60 inch tires giving you the traction needed to jump and roll in the mud.",
@@ -131,9 +95,6 @@
   "Color": "purple",
   "Classification": "Trucks"
 },{
-  "_id": {
-    "$oid": "64467ec5cb73466478adc2fa"
-  },
   "Make": "Spartan",
   "Model": "Fire Truck",
   "Description": "Emergencies happen often. Be prepared with this Spartan fire truck. Comes complete with 1000 ft. of hose and a 1000-gallon tank.",
@@ -142,9 +103,6 @@
   "Color": "Red",
   "Classification": "Trucks"
 },{
-  "_id": {
-    "$oid": "64467ec5cb73466478adc2fb"
-  },
   "Make": "Mechanic",
   "Model": "Special",
   "Description": "Not sure where this car came from. However, with a little tender loving care it will run as good a new.",
@@ -153,9 +111,6 @@
   "Color": "Rust",
   "Classification": "Used"
 },{
-  "_id": {
-    "$oid": "64467ec5cb73466478adc2fc"
-  },
   "Make": "Ford",
   "Model": "Crown Victoria",
   "Description": "After the police force updated their fleet these cars are now available to the public! These cars come equipped with the siren which is convenient for college students running late to class.",
@@ -164,9 +119,6 @@
   "Color": "White",
   "Classification": "Used"
 },{
-  "_id": {
-    "$oid": "64467ec5cb73466478adc2fd"
-  },
   "Make": "GM",
   "Model": "Hummer",
   "Description": "Do you have 6 kids and like to go off-roading? The Hummer gives you the small interiors with an engine to get you out of any muddy or rocky situation.",
